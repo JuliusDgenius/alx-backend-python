@@ -32,7 +32,11 @@ A documentation is not a simple word, it’s a real sentence explaining what’s
 
 # 0x01-python_async_function
 	# 0-basic_async_syntax.py: The basics of async
+
 	# 1-concurrent_coroutines.py: Let's execute multiple coroutines at the same time with async
+
 	# 2-measure_runtime.py: Measure the runtime
+
 	# 3-tasks.py: Tasks
+	
 	# 4-tasks.py: Tasks
