@@ -1,5 +1,7 @@
 # 0x01. Python - Async
 
+This repository introduces Python Async.
+
 # Resources
 Read or watch:
 
@@ -31,12 +33,19 @@ All your functions should have a documentation (python3 -c 'print(__import__("my
 A documentation is not a simple word, it’s a real sentence explaining what’s the purpose of the module, class or method (the length of it will be verified)
 
 # 0x01-python_async_function
-	# 0-basic_async_syntax.py: The basics of async
 
-	# 1-concurrent_coroutines.py: Let's execute multiple coroutines at the same time with async
+This directory contains various python async functions.
 
-	# 2-measure_runtime.py: Measure the runtime
+## Files
 
-	# 3-tasks.py: Tasks
-	
-	# 4-tasks.py: Tasks
+# 0x01-python_async_function
+
+This directory contains various examples of Python async functions.
+
+## Files
+
+- [0-basic_async_syntax.py](./0x01-python_async_function/0-basic_async_syntax.py): The basics of async
+- [1-concurrent_coroutines.py](./0x01-python_async_function/1-concurrent_coroutines.py): Let's execute multiple coroutines at the same time with async
+- [2-measure_runtime.py](./0x01-python_async_function/2-measure_runtime.py): Measure the runtime
+- [3-tasks.py](./0x01-python_async_function/3-tasks.py): Tasks
+- [4-tasks.py](./0x01-python_async_function/4-tasks.py): Tasks
